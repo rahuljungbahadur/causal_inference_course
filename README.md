@@ -1,2 +1,2 @@
-# causal_inference_course
+# Causal Inference Course
 coursework for causal inference course
